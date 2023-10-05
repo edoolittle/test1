@@ -1,1 +1,1 @@
-This file is only visible in new branch
+This file is visible in main branch and new-branch
